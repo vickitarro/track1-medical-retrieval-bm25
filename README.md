@@ -18,3 +18,13 @@ The project implements a BM25-based evidence retrieval pipeline using the PubMed
 
 ## Status
 Track 1 completed successfully.
+## Evaluation Summary
+The BM25 baseline was evaluated using standard retrieval metrics on PubMedQA.
+
+- Recall@5: 0.988
+- Recall@10: 0.993
+- MRR@10: 0.964
+- nDCG@10: 0.971
+
+Detailed evaluation results and error analysis are available in
+[EVALUATION.md](./EVALUATION.md).
