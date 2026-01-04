@@ -1,0 +1,32 @@
+
+Commit it.
+
+---
+
+## 3️⃣ Final Checklist (you’re basically done)
+
+✅ BM25 baseline  
+✅ Retrieval evaluation  
+✅ Error analysis  
+✅ README (reproducibility)  
+✅ requirements.txt  
+
+This **fully satisfies your mentor’s message**.
+
+---
+
+## 🎯 OPTIONAL (but recommended)
+- Add a short **Results** section screenshot to your repo
+- Pin this repo on GitHub
+- Mention it on LinkedIn as a *Medical IR baseline project*
+
+---
+
+### 👉 What do you want next?
+Reply with one:
+- **“Prepare interview explanation”**
+- **“Help me write a submission message to mentor”**
+- **“Polish GitHub profile”**
+- **“I’m done 🎉”**
+
+You did **excellent, real ML engineering work** 👏
